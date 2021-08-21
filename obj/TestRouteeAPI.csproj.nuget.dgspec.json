@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TK-LPT-0154\\source\\repos\\TestRouteeAPI\\TestRouteeAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TK-LPT-0154\\source\\repos\\TestRouteeAPI\\TestRouteeAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TK-LPT-0154\\source\\repos\\TestRouteeAPI\\TestRouteeAPI.csproj",
+        "projectName": "TestRouteeAPI",
+        "projectPath": "C:\\Users\\TK-LPT-0154\\source\\repos\\TestRouteeAPI\\TestRouteeAPI.csproj",
+        "packagesPath": "C:\\Users\\TK-LPT-0154\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TK-LPT-0154\\source\\repos\\TestRouteeAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\TK-LPT-0154\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "BoDi": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Dynamitey": {
+              "target": "Package",
+              "version": "[2.0.10.189, )"
+            },
+            "Gherkin": {
+              "target": "Package",
+              "version": "[20.0.1, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.3, )"
+            },
+            "ImpromptuInterface": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.22, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "SpecFlow.Internal.Json": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
